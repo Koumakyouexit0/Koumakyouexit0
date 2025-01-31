@@ -6,6 +6,7 @@ Normal osu!std, chs touhou, đọc anime, chs genshin, Vocaloid cấp thấp, hu
 
 ## Social Media
 
+- Webpage: https://koumakyouexit0.github.io/Koumakyouexit0
 - X: https://x.com/endermanosuwu
 - YT: https://www.youtube.com/@reopymiku
 - FB: https://www.facebook.com/realkome

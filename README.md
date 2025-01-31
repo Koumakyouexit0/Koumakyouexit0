@@ -1,16 +1,28 @@
-## Hi there 👋
+# KomeLab (reopymiku/kome in shortname) - Công Ty Trách Nhiệm Hữu Hạn Một Mình Tao:)
+## - Tiểu sử về tôi!
+Normal osu!std, chs touhou, đọc anime, chs genshin, Vocaloid cấp thấp, huyền thoại fifai, người bình thường!
 
-<!--
-**Koumakyouexit/Koumakyouexit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![normal](https://avatars.githubusercontent.com/u/190963235)
 
-Here are some ideas to get you started:
+## Social Media
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- X: https://x.com/endermanosuwu
+- YT: https://www.youtube.com/@reopymiku
+- FB: https://www.facebook.com/realkome
+- Zalo Box: https://zalo.me/g/poumsi139
+- Discord: @reopymiku
+- Ripple!: https://ripple.moe/u/134772
+- Osu!: https://osu.ppy.sh/users/29672443
+
+> I just made it in my spare time, I won't be responsible if you use it and cause consequences!
+
+Copyright by Kome's Stuff - 2025.
+
+Kome's Stuff © 2025 by Kasane Kome is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International 
+
+profile: https://kochiwa.carrd.co
+
+![banner](https://i.imgur.com/zrKgRUx.jpeg)
+
+Love u:33
+[![kome's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koumakyouexit)](https://github.com/anuraghazra/github-readme-stats)

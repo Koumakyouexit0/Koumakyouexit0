@@ -24,5 +24,9 @@ profile: https://kochiwa.carrd.co
 
 ![banner](https://i.imgur.com/zrKgRUx.jpeg)
 
-Love u:33
+Ngại quá bây ơi:)
+
 [![kome's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koumakyouexit)](https://github.com/anuraghazra/github-readme-stats)
+
+##Love u:33
+

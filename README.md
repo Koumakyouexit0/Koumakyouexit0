@@ -2,7 +2,7 @@
 ## - Tiểu sử về tôi!
 Normal osu!std, chs touhou, đọc anime, chs genshin, Vocaloid cấp thấp, huyền thoại fifai, người bình thường!
 
-![normal](https://avatars.githubusercontent.com/u/190963235)
+![banner](https://i.imgur.com/zrKgRUx.jpeg)
 
 ## Social Media
 
@@ -21,8 +21,6 @@ Copyright by Kome's Stuff - 2025.
 Kome's Stuff © 2025 by Kasane Kome is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International 
 
 profile: https://kochiwa.carrd.co
-
-![banner](https://i.imgur.com/zrKgRUx.jpeg)
 
 Ngại quá bây ơi:)
 

@@ -2,7 +2,7 @@
 ## - Tiểu sử về tôi!
 Normal osu!std, chs touhou, đọc anime, chs genshin, Vocaloid cấp thấp, huyền thoại fifai, người bình thường!
 
-![banner](https://i.imgur.com/zrKgRUx.jpeg)
+![banner](https://i.imgur.com/V1US1UR.jpeg)
 
 ## Social Media
 

@@ -3,7 +3,7 @@
 
 
 # Lưu ý: Project này và đống stuff này tôi sẽ nhượng cho người khác (fb của người sẽ dc nhượng lại toàn bộ https://www.facebook.com/koikishu32) 
-# Cảm ơn vì đã đồng hành cùng tôi trong suốt thời gian qua!
+## Cảm ơn vì đã đồng hành cùng tôi trong suốt thời gian qua!
 
 
 Normal osu!std, chs touhou, đọc anime, chs genshin, Vocaloid cấp thấp, huyền thoại fifai, người bình thường!

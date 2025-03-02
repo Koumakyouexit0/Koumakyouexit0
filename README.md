@@ -1,5 +1,11 @@
 # KomeLab (reopymiku/kome in shortname) - Công Ty Trách Nhiệm Hữu Hạn Một Mình Tao:)
 ## - Tiểu sử về tôi!
+
+
+# Lưu ý: Project này và đống stuff này tôi sẽ nhượng cho người khác (fb của người sẽ dc nhượng lại toàn bộ https://www.facebook.com/koikishu32) 
+# Cảm ơn vì đã đồng hành cùng tôi trong suốt thời gian qua!
+
+
 Normal osu!std, chs touhou, đọc anime, chs genshin, Vocaloid cấp thấp, huyền thoại fifai, người bình thường!
 
 ![banner](https://i.imgur.com/V1US1UR.jpeg)

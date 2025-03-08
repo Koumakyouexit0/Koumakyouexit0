@@ -14,7 +14,7 @@ Normal osu!std, chs touhou, đọc anime, chs genshin, Vocaloid cấp thấp, hu
 - Webpage: https://koumakyouexit0.github.io/Koumakyouexit0
 - X: https://x.com/endermanosuwu
 - YT: https://www.youtube.com/@reopymiku
-- FB: https://www.facebook.com/realkome
+- FB: https://www.facebook.com/koikishu32
 - Zalo Box: https://zalo.me/g/poumsi139
 - Discord: @reopymiku
 - Ripple!: https://ripple.moe/u/134772

@@ -18,14 +18,6 @@ Normal osu!std, chs touhou, đọc anime, chs genshin, Vocaloid cấp thấp, hu
 
 > I just made it in my spare time, I won't be responsible if you use it and cause consequences!
 
-Copyright by Kome's Stuff - 2025.
-
-Kome's Stuff © 2025 by Kasane Kome is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International 
-
-profile: https://kochiwa.carrd.co
-
-Ngại quá bây ơi:)
-
 [![kome's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koumakyouexit0)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Love u:33

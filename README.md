@@ -1,4 +1,4 @@
-# KomeLab (reopymiku/kome in shortname) - Công Ty Trách Nhiệm Hữu Hạn Một Mình Tao:)
+#  Lumine Federation - Công Ty Trách Nhiệm Hữu Hạn Một Mình Tao:)
 ## - Tiểu sử về tôi!
 
 Normal osu!std, chs touhou, đọc anime, chs genshin, Vocaloid cấp thấp, huyền thoại fifai, người bình thường!

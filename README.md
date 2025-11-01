@@ -1,24 +1,16 @@
-#  Lumine Federation - Công Ty Trách Nhiệm Hữu Hạn Một Mình Tao:)
-## - Tiểu sử về tôi!
-
-Normal osu!std, chs touhou, đọc anime, chs genshin, Vocaloid cấp thấp, huyền thoại fifai, người bình thường!
-
+#  LumineFederator - Simple, Fast, Open-Source!
+## - Description
 ![banner](https://i.imgur.com/V1US1UR.jpeg)
+LumineFederator is an KomeLab-Based Project focus on Simple and ... 
 
-## Social Media
+> **Miku？**
 
-- Webpage: https://koumakyouexit0.github.io/Koumakyouexit0
-- X: https://x.com/endermanosuwu
-- YT: https://www.youtube.com/@reopymiku
-- FB: https://www.facebook.com/koikishu32
-- Zalo Box: https://zalo.me/g/poumsi139
-- Discord: @reopymiku
-- Ripple!: https://ripple.moe/u/134772
-- Osu!: https://osu.ppy.sh/users/29672443
+## Contact
 
-> I just made it in my spare time, I won't be responsible if you use it and cause consequences!
+- Headquarters: https://koumakyouexit0.github.io/Koumakyouexit0
 
-[![kome's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koumakyouexit0)](https://github.com/anuraghazra/github-readme-stats)
+> Feel free, everything in here working no money!
+
+[![LumineFederator's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koumakyouexit0)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Love u:33
-
